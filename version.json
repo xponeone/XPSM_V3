@@ -1,4 +1,6 @@
 {
   "xpsm_version" : 301,
-  "lib_version" : 5
+  "lib_version" : 5,
+  "installer_link" : "https://github.com/xponeone/XPSM_V3/releases/download/v3.1/Setup_XPSMV3.1.exe",
+  "zip_link" : "https://github.com/xponeone/XPSM_V3/releases/download/v3.1/XPSM.v3.1.zip"
 }
